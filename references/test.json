@@ -1,0 +1,32 @@
+{
+	"type": "round-trip",
+	"slices": [{
+		"origin": ["PVG"],
+		"dest": ["SFO"],
+		"routing": "",
+		"ext": "",
+		"routingRet": "",
+		"extRet": "",
+		"dates": {
+			"searchDateType": "calendar",
+			"departureDate": "2026-05-30",
+			"departureDateType": "depart",
+			"departureDateModifier": "0",
+			"departureDatePreferredTimes": [],
+			"duration": "5-10",
+			"returnDateType": "depart",
+			"returnDateModifier": "0",
+			"returnDatePreferredTimes": []
+		}
+	}],
+	"options": {
+		"cabin": "COACH",
+		"stops": "-1",
+		"extraStops": "1",
+		"allowAirportChanges": "true",
+		"showOnlyAvailable": "true"
+	},
+	"pax": {
+		"adults": "1"
+	}
+}
